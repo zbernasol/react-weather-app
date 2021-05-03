@@ -20,7 +20,7 @@ export default function Weather() {
             <span className="unit">°C|°F</span>
           </p>
         </div>
-        <div className="col-4 current-weather-icon">
+        <div className="col-4">
           <img src={weatherData.imgUrl} alt={weatherData.description} />
         </div>
         <div className="col-4 current-weather-info">

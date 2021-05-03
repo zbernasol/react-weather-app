@@ -21,7 +21,7 @@ export default function Weather() {
           </p>
         </div>
         <div className="col-4 current-weather-icon">
-          <img src={weatherData.imgUrl} />
+          <img src={weatherData.imgUrl} alt={weatherData.description} />
         </div>
         <div className="col-4 current-weather-info">
           <ul>

@@ -16,7 +16,7 @@ function App() {
       <Search />
       <Weather />
       <footer>
-        <a href="">Open-source code</a> by <a href="https://www.linkedin.com/in/zian-angelica-bernasol-6a190a113/">Zian Bernasol</a>
+        <a href="https://github.com/zbernasol/react-weather-app">Open-source code</a> by <a href="https://www.linkedin.com/in/zian-angelica-bernasol-6a190a113/">Zian Bernasol</a>
       </footer>
     </div>
   );
